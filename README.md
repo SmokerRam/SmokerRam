@@ -46,7 +46,7 @@ Descomenta esta sección cuando publiques cada proyecto nuevo:
 - 🌐 Preparando mi sitio web de portafolio.
 
 ## 📫 Contacto
-- 💼 LinkedIn: [TU-ENLACE-DE-LINKEDIN](https://www.linkedin.com/in/ggangel-ramirez)
+- 💼 LinkedIn: [GGAngel-Ramirez](https://www.linkedin.com/in/ggangel-ramirez)
 - ✉️ Correo: angel.raminez01@gmail.com
 
 ---
